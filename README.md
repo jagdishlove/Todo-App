@@ -1,5 +1,5 @@
 # About
-  Basic TODO app with having CRUD operations with beautifyl design
+  Basic TODO app with having CRUD operations with beautiful design
   
   
 #Tech Used 
